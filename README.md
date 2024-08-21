@@ -7,5 +7,5 @@ __Solution:__Using streaming availability and movie info from TMDB and 
 
 __End Product:__ An interactive Tableau dashboard that returns a list of the Top 25 movies for ‘Netflix and chilling’ on your streaming services.
 
-![](SNC_DASH.png)
+![](SNC_DASH.png =99x79)
 Check out the full interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/ricardo.martiarena/viz/StreamChillFindingthePerfectBackgroundDate-NightMovie/SNC_DASH!)
